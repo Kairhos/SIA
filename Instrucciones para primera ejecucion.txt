@@ -1,0 +1,7 @@
+*Es necesario tener instalado un administrados de servidores/bases de datos como XAMPP*
+
+1. Mover la carpeta a la raiz donde se ejecuta el servidor, en el caso de XAMPP a la carpeta htdocs
+2. Encender el servidor Apache y MySQL
+3. Montar la base de datos, el archivo 'database.sql' es el script que contiene las tablas y datos de prueba
+4. Abrir el archivo 'index.php' desde el navegador para empezar a utilizar la aplicación
+5. Para acceder se pueden utilizar los datos de la tabla 'usuarios' de la base de datos; para ver los usuarios se puede ejecutar la consulta 'select * from usuario'

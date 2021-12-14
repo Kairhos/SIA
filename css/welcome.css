@@ -1,0 +1,27 @@
+#welcome-cont {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#pic-container {
+    width: 200px;
+    height: 200px;
+    max-width: 200px;
+}
+
+#profile-pic-welcome {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 15px;
+}
+
+#msg-cont {
+    width: calc(100vw - 245px);
+    float: right;
+}
+
+#welcome-msg {
+    text-align: justify;
+}
